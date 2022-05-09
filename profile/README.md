@@ -1,12 +1,19 @@
-## Hi there 👋
+## Welcome to Rails Test's GitHub
 
-<!--
+### What We Do
 
-**Here are some ideas to get you started:**
+We run a productized service called **Rails Test**, which offers done-for-you code challenges as part of Ruby on Rails developer interviews for companies who are hiring Rails developers.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Check out https://railstest.com for details.
+
+### Who We Are
+
+We are Ruby on Rails developers and have worked, through our consulting services, at various Ruby on Rails shops both large and small. 
+
+### Open Source Projects
+
+[Dockerize](https://github.com/railstest-com/dockerize) - A Docker configuration set up tool for Ruby on Rails projects
+
+### Contact Us
+
+Looking to scale your Ruby on Rails hiring process? Contact us at sales@railstest.com or visit us at https://railstest.com.
